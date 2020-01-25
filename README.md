@@ -2,78 +2,77 @@
 <p align="center"><img src="header.png"></p>
 
 <p align="center">
-  <a href="https://twitter.com/emilwallner"><img src="https://img.shields.io/badge/Twitter-6054-34A1F2.svg" alt="Twitter"></a>
-  <a href="https://medium.com/@emilwallner"><img src="https://img.shields.io/badge/Medium-4256-71EF8E.svg" alt="Medium"></a>
-  <a href="mailto:w@llner.co"><img src="https://img.shields.io/badge/Email-w%40llner.co-red.svg" alt="Email"></a>
-  <a href="https://github.com/emilwallner"><img src="https://img.shields.io/badge/GitHub-1012-000000.svg" alt="GitHub"></a>
-  <a href="https://goo.gl/maps/gxHX7SRQQTL2"><img src="https://img.shields.io/badge/Location-Paris-00FFB4.svg" alt="Paris"></a>
+  <a href="https://twitter.com/MThakkar_"><img src="https://img.shields.io/badge/Twitter-956-34A1F2.svg" alt="Twitter"></a>
+  <a href="https://medium.com/@mthakkar_"><img src="https://img.shields.io/badge/Medium-354-71EF8E.svg" alt="Medium"></a>
+  <a href="mailto:w@llner.co"><img src="https://img.shields.io/badge/Email-manthan.thakkar%40gmail.com-red.svg" alt="Email"></a>
+  <a href="https://github.com/emilwallner"><img src="https://img.shields.io/badge/GitHub-433-000000.svg" alt="GitHub"></a>
+  <a href="https://goo.gl/maps/Tz5aXo9zZfmCCLZd6"><img src="https://img.shields.io/badge/Location-San%20Francisco-FF4F00.svg" alt="Paris"></a>
 
-  <img src="https://img.shields.io/badge/Telegram-%40emilwallner-%233DA6D9.svg" alt="Telegram">
+  <img src="https://img.shields.io/badge/Telegram-%40montethakkar-%233DA6D9.svg" alt="Telegram">
 
 </p>
 
+<br/>
+
 ---
 
-Emil is doing machine learning research at Google Art & Culture and independent research in reasoning.
+<br/>
 
-In 2018, he made a popular open-source project that translates design mock-ups into HTML/CSS, [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code), and in early 2019 he was subject for a short-film by Google for his work on [automated colorization](https://www.youtube.com/watch?v=xKPk7tG2upc). 
+Monte is a full-stack engineer that has lived in San Francisco for the past few years. He worked at a short-term rental startup - [Pillow](https://www.pillow.com/) - which got acquired by Expedia in 2018.
 
-Emil previously worked for the University of Oxford and he co-founded a [seed investment firm](http://emerge.education/) focussed on education technology (59 investments). 
+He is currently working remotely from Bangalore, India as an iOS engineer for Expedia.
 
-Email: w@llner.co
+Monte is also working on his own startup, [Kandou](https://www.kandouapp.com/) which aims to help others make a positive impact on their community through volunteering. Kandou provides tools and resources to companies to help organize & manage their CSR (Corporate Social Responsibility) programs easily. Reach out to hello@kandouapp.com for more information.
+
+Portfolio: montethakkar.com
+
+Email: manthan.thakkar@gmail.com
 
 <br/>
 
 ## Latest Projects 
 
-- [**Screenshot-to-code**](https://github.com/emilwallner/Screenshot-to-code), A neural network that transforms a design mock-up into a static website.
-- [**Colorization**](https://github.com/emilwallner/Coloring-greyscale-images), Coloring B&W portraits with neural networks. (featured by [Google](https://www.blog.google/technology/ai/creative-coder-adding-color-machine-learning/))
-- [**Drawing-to-logo**](http://www.aiartonline.com/design/emil-wallner/), a custom pix2pixHD model that transforms drawings into graphics (featured at [NeurIPS 2018](http://www.aiartonline.com/design/emil-wallner/)).
-
+- [**Data Rights Are Human Rights**](http://datarightsarehumanrights.com/) - A website to promote online privacy and resources to help users take control of their own personal data on the internet.
+- [**San Francisco Ramen Club**](http://sanfranciscoramen.club/) - Best ramen spots in San Francisco tried and rated by Monte. It's a custom Google Map that has over 2,200 views.
+- [**Dear Earth**](https://dear.earth/) - A website to raise awareness about climate change. Do something before it's too late!
 
 <br/>
 
-## Experience 
-
-#### Machine Learning Researcher (contractor), [Google](https://artsandculture.google.com/)
-##### July 2019 - Present | Paris
-
---- 
-
-#### Machine Learning Internship, [FloydHub (YC W17)](https://www.floydhub.com/)
-##### July 2017 - January 2018 (7 months)  | San Francisco
-
-Developing deep learning projects and documenting the process.
-
---- 
-
-#### Co-founder, [Emerge Education](https://emerge.education/)
-##### December 2012 - November 2014 (2 years) | London
-
-Europe's leading seed investor for edtech companies.
-
 ---
 
+<br/>
 
-#### TA and Developer (contractor), [University of Oxford - SBS](https://www.sbs.ox.ac.uk/)
-##### April 2012 - January 2014 (1 year 10 months) | Oxford
+## Experience
 
-I assisted their MBA course on design thinking and did websites for the Skoll Centre.
+### Co-founder, [Kandou](https://www.kandouapp.com/)
 
----
+October 2018 - Present | San Francisco
+
+Kandou makes social impact simple and social. 
+
+<br/>
+
+### iOS Engineer, [Expedia](https://lifeatexpediagroup.com/)
+
+Jan 2020 - Present | Austin, TX
+
+<br/>
+
+### Full Stack Engineer, [Pillow](https://www.pillow.com/)
+
+Feb 2017 - Dec 2019 (~3 years)  | San Francisco
 
 <br/>
 
 ## Education
 
-#### Computer Science, [42](https://www.42.fr/)
-##### (2016 - 2019) | Paris
+### Computer Science, [San Francisco State University](https://sfsu.edu/)
 
-A peer-to-peer CS school without teachers. 
+2014 - 2016 | San Francisco
 
+<br/>
 
 ---
-
 
 <br/>
 
@@ -81,27 +80,23 @@ A peer-to-peer CS school without teachers.
 
 ### Programming
 
-- C, Python, Javascript, React, Tensorflow, Pytorch, and Keras.
+- Javascript, React, React Native, Swift, Objective-C
 
 ### Platforms
 
-- Kubernetes, Firebase, FloydHub, Google Cloud Platform, Digital Ocean, and AWS.
+- Firebase, Heroku and AWS
 
 ### Design
 
-- Sketch and Photoshop.
+- Sketch and Preview
 
 ### Languages
 
-- English and Swedish.
-
+- English, Hindi, Kannada, Gujarati, Kutchi
 
 <br/>
 
 ## Quirks
 
-- I've lived in Ghana where I volunteered as a teacher and accidentally became the king of the village I lived in. 
-- I joined a music group and toured a dozen countries. My highlight was a Spanish solo for 6k Mexicans. (For the record, I'm a terrible singer. I only got the opportunity because the three first options were sick.)
-- For a year, I lived as a digital nomad in southeast Asia, the States, and South Africa.
-- I run the equivalent of a marathon every week, only wear black, and I own less than a hundred objects. 
-- I've participated in a silent retreat and taken several solo trips to remote parts of the world. 
+- I am the moderator of [/r/elonmusk](https://www.reddit.com/r/elonmusk/) - a subreddit dedicated for Elon Musk discussion & updates. I joined the team when it had less than 10k members and it currently has 170k members.
+- I am ramen-obsessed. I have probably tried almost every ramen restaurant in San Francisco and maintain a personal ranking of the best ramen spots in SF.
