@@ -4,11 +4,12 @@
 <p align="center">
   <a href="https://twitter.com/MThakkar_"><img src="https://img.shields.io/badge/Twitter-956-34A1F2.svg" alt="Twitter"></a>
   <a href="https://medium.com/@mthakkar_"><img src="https://img.shields.io/badge/Medium-354-71EF8E.svg" alt="Medium"></a>
-  <a href="mailto:w@llner.co"><img src="https://img.shields.io/badge/Email-manthan.thakkar%40gmail.com-red.svg" alt="Email"></a>
+  <a href="mailto:w@llner.co"><img src="https://img.shields.io/badge/Email-manthan.thakkar%40gmail.com-25D9B8.svg" alt="Email"></a>
   <a href="https://github.com/emilwallner"><img src="https://img.shields.io/badge/GitHub-433-000000.svg" alt="GitHub"></a>
   <a href="https://goo.gl/maps/Tz5aXo9zZfmCCLZd6"><img src="https://img.shields.io/badge/Location-San%20Francisco-FF4F00.svg" alt="Paris"></a>
 
-  <img src="https://img.shields.io/badge/Telegram-%40montethakkar-%233DA6D9.svg" alt="Telegram">
+  <img src="https://img.shields.io/badge/Resume-F25C69.svg" alt="Resume">
+  <img src="https://img.shields.io/badge/Telegram-%40montethakkar-F2BB16.svg" alt="Telegram">
 
 </p>
 
@@ -40,15 +41,13 @@ Email: manthan.thakkar@gmail.com
 
 ---
 
-<br/>
-
 ## Experience
 
 ### Co-founder, [Kandou](https://www.kandouapp.com/)
 
 October 2018 - Present | San Francisco
 
-Kandou makes social impact simple and social. 
+**Kandou makes social impact simple and social.**
 
 <br/>
 
@@ -69,10 +68,6 @@ Feb 2017 - Dec 2019 (~3 years)  | San Francisco
 ### Computer Science, [San Francisco State University](https://sfsu.edu/)
 
 2014 - 2016 | San Francisco
-
-<br/>
-
----
 
 <br/>
 
