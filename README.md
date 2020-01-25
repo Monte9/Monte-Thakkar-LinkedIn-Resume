@@ -4,16 +4,19 @@
 <p align="center">
   <a href="https://twitter.com/MThakkar_" target="_blank"><img src="https://img.shields.io/badge/Twitter-956-34A1F2.svg" alt="Twitter"></a>
   <a href="https://medium.com/@mthakkar_" target="_blank"><img src="https://img.shields.io/badge/Medium-354-71EF8E.svg" alt="Medium"></a>
-  <a href="mailto:manthan.thakkar@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-manthan.thakkar%40gmail.com-25D9B8.svg" alt="Email"></a>
   <a href="https://github.com/Monte9" target="_blank"><img src="https://img.shields.io/badge/GitHub-433-000000.svg" alt="GitHub"></a>
-  <a href="https://goo.gl/maps/Tz5aXo9zZfmCCLZd6" target="_blank"><img src="https://img.shields.io/badge/Location-San%20Francisco-FF4F00.svg" alt="San Francisco"></a>
+</p>
 
+<p align="center">
   <a href="https://github.com/Monte9/Monte-Thakkar-LinkedIn-Resume/blob/master/MonteThakkar-Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-F25C69.svg" alt="Resume"></a>
+</p>
+
+<p align="center">
+  <a href="mailto:manthan.thakkar@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-manthan.thakkar%40gmail.com-25D9B8.svg" alt="Email"></a>
+  <a href="https://goo.gl/maps/Tz5aXo9zZfmCCLZd6" target="_blank"><img src="https://img.shields.io/badge/Location-San%20Francisco-FF4F00.svg" alt="San Francisco"></a>
   <img src="https://img.shields.io/badge/Telegram-%40montethakkar-F2BB16.svg" alt="Telegram">
 
 </p>
-
-<br/>
 
 ---
 
@@ -29,7 +32,6 @@ Portfolio: montethakkar.com
 
 Email: manthan.thakkar@gmail.com
 
-<br/>
 
 ## Latest Projects 
 
