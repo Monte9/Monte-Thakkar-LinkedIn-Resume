@@ -1,3 +1,19 @@
+
+
+---
+
+<br/>
+
+Hi! :wave:
+
+My name is Monte Thakkar and here is a bit about me.
+
+I am a full-stack engineer that lived in San Francisco until 2019. During my time in the Bay Area, I worked at a short-term rental startup - [Pillow](https://www.pillow.com/) - which got acquired by Expedia in 2018.
+
+I currently work remotely from Bangalore, India as an iOS engineer for Expedia.
+
+I am also working on my own startup, [Kandou](https://www.kandouapp.com/) which aims to help others make a positive impact in their community through volunteering. Kandou provides tools and resources to companies to help organize & manage their CSR (Corporate Social Responsibility) programs easily. Reach out to hello@kandouapp.com for more information.
+
 <p align="center">
   <a href="https://twitter.com/MThakkar_" target="_blank"><img src="https://img.shields.io/badge/Twitter-956-34A1F2.svg" alt="Twitter"></a>
   <a href="https://medium.com/@mthakkar_" target="_blank"><img src="https://img.shields.io/badge/Medium-354-71EF8E.svg" alt="Medium"></a>
@@ -12,22 +28,7 @@
   <a href="mailto:manthan.thakkar@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-manthan.thakkar%40gmail.com-25D9B8.svg" alt="Email"></a>
   <a href="https://goo.gl/maps/Tz5aXo9zZfmCCLZd6" target="_blank"><img src="https://img.shields.io/badge/Location-San%20Francisco-FF4F00.svg" alt="San Francisco"></a>
   <img src="https://img.shields.io/badge/Telegram-%40montethakkar-F2BB16.svg" alt="Telegram">
-
 </p>
-
----
-
-<br/>
-
-Monte is a full-stack engineer that has lived in San Francisco for the past few years. He worked at a short-term rental startup - [Pillow](https://www.pillow.com/) - which got acquired by Expedia in 2018.
-
-He is currently working remotely from Bangalore, India as an iOS engineer for Expedia.
-
-Monte is also working on his own startup, [Kandou](https://www.kandouapp.com/) which aims to help others make a positive impact on their community through volunteering. Kandou provides tools and resources to companies to help organize & manage their CSR (Corporate Social Responsibility) programs easily. Reach out to hello@kandouapp.com for more information.
-
-Portfolio: montethakkar.com
-
-Email: manthan.thakkar@gmail.com
 
 
 ## Latest Projects 
