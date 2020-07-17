@@ -1,6 +1,3 @@
-
-<p align="center"><img src="header.png"></p>
-
 <p align="center">
   <a href="https://twitter.com/MThakkar_" target="_blank"><img src="https://img.shields.io/badge/Twitter-956-34A1F2.svg" alt="Twitter"></a>
   <a href="https://medium.com/@mthakkar_" target="_blank"><img src="https://img.shields.io/badge/Medium-354-71EF8E.svg" alt="Medium"></a>
