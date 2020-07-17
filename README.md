@@ -41,19 +41,13 @@ October 2018 - Present | San Francisco
 
 **Kandou makes social impact simple and social.**
 
-<br/>
-
 ### iOS Engineer, [Expedia](https://lifeatexpediagroup.com/)
 
 Jan 2020 - Present | Austin, TX
 
-<br/>
-
 ### Full Stack Engineer, [Pillow](https://www.pillow.com/)
 
 Feb 2017 - Dec 2019 (~3 years)  | San Francisco
-
-<br/>
 
 ## Education
 
@@ -63,7 +57,7 @@ Feb 2017 - Dec 2019 (~3 years)  | San Francisco
 
 <br/>
 
-## Stack
+## Skills
 
 ### Programming
 
