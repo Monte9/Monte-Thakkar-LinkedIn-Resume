@@ -18,10 +18,6 @@ I am also working on my own startup, [Kandou](https://www.kandouapp.com/) which 
 </p>
 
 <p align="center">
-  <a href="https://github.com/Monte9/Monte-Thakkar-LinkedIn-Resume/blob/master/MonteThakkar-Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-F25C69.svg" alt="Resume"></a>
-</p>
-
-<p align="center">
     <a href="https://github.com/Monte9/Monte-Thakkar-LinkedIn-Resume/blob/master/MonteThakkar-Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-F25C69.svg" alt="Resume"></a>
   <a href="mailto:manthan.thakkar@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-manthan.thakkar%40gmail.com-25D9B8.svg" alt="Email"></a>
 </p>
